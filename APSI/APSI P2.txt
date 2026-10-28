@@ -1,0 +1,15 @@
+Bussines as is ( yang sedang terjadi di system saat ini)
+
+Event (Start, End, Intermeddiate(Start baru saat proses) )
+
+BPMN ada menurut functional area(Tempat proses terjadi suatu bisnis)
+
+Message flow (Buat menghubungkan functional are berbeda)
+
+
+Data Object( Data sementara seperti isi formulir)
+Data Store ( Data final seperti ti database, bisa diakses data actor lain)
+
+Admin menginformasi tautan formular mcu ke pasien , 
+
+Artifact dalam BPMN adalah elemen tambahan yang memberikan konteks atau informasi pelengkap pada diagram proses bisnis tanpa mengubah alur eksekusi utama

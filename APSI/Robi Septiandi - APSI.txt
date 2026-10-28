@@ -1,0 +1,51 @@
+Robi Septiandi - APSI
+
+BPMN : Alur Bisnis (As Is)
+
+UML : Use case (to be) , Activity, sequence, Class Diagram, erd ,Ui, Deployment
+
+Bussines Need : Apa yang dibutuhkan untuk mempermudah pada sistem.
+Bussines Requirment : Fitur apa saja yang ada pada sistem.
+Bussines Value Intengible (Tidak Bisa diukur) 
+Bussines Value Tengible (Bisa diukur) 
+ 
+System Request Handa Print :
+
+Judul : Sistem Informasi Antrian Pesanan Terintegrasi dan Prioritas Pengerjaan Berbasis SPK di Handa Print
+Project Sponsor : Muhammad Ilsar Gymnastiar, S.T - Owner Handa Print
+
+Bussines Need :
+- Penentuan pesanan
+- Otomatiasasi Antrian
+- pencatatan alur masih di excel
+- Bingung masih menentukan sebuah pengerjaan
+
+Bussiner Req :
+- katalog produk pada system
+- membuat sebuah system antrian formal
+- Pembuatan system yang mencakup semua alur pengerjaan produk
+- pembuatan SPK dalam system yang menentukan prioritas pengerjaan
+
+Bussine Value 
+Intangible :
+-Kepuasaan pelanggan
+-kepercayaan pelanggan
+-
+
+Tangible :
+- Estimasi Waktu dalam pengerjaan jelas
+- pencatatan biaya jauh lebih ter otomasi , pengurangan kertas
+-
+
+Maka di hari kematianku kawan, pastikan suaraku datanglaut
+
+
+
+
+
+
+
+
+
+
+
